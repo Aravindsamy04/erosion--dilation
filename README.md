@@ -77,31 +77,20 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>![Screenshot 2024-04-29 215525](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/b8b1f94e-5974-4c07-91e5-2ffa35b1e574)
 
-<br>
-<br>
+
+![Screenshot 2024-04-29 215525](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/eec5606d-bdb5-42c8-ab02-027ec9399141)
+
 
 ### Display the Eroded Image
-<br>
-<br>
-<br>![Screenshot 2024-04-29 215532](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/8cf01e8e-df14-4eda-aae0-a17a5acd11c0)
+![Screenshot 2024-04-29 215532](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/06085f42-74e2-4bb0-849a-b02929d84149)
 
-<br>
-<br>
-<br>
 
 ### Display the Dilated Image
-<br>
-<br>
-<br>
-<br>![Screenshot 2024-04-29 215541](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/eb5f5ca2-0a2b-41f4-ae43-f98170166ca0)
 
-<br>
-<br>
+![Screenshot 2024-04-29 215541](https://github.com/Aravindsamy04/erosion--dilation/assets/113497037/218aee74-33bc-4c43-985c-511ccded7b0e)
+
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
